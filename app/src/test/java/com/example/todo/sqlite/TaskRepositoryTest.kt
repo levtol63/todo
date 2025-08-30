@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test
 import io.qameta.allure.*
 
 @Epic("SQLite mock")
-@Feature("CRUD")
+@Feature("CRUD test")
 class TaskRepositoryTest {
     @Test @Story("Create & Read")
     fun create_and_read() = runTest {
