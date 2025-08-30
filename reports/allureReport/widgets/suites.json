@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"6c815a2d1d9d8eedcf645502529e7460","name":"com.example.todo.http.ApiServiceTest","statistic":{"failed":0,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":3}},{"uid":"fa6f3071077f86d596675e8b2c2e4093","name":"com.example.todo.sqlite.TaskRepositoryTest","statistic":{"failed":0,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":3}}]}

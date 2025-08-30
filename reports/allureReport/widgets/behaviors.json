@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"97c8daab0ee84707900e0da68512004a","name":"API MockWebServer","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}},{"uid":"d8f3c3d35366ef2b388fd2a3f9ff7031","name":"SQLite mock","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
